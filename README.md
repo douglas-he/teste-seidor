@@ -21,7 +21,7 @@ Aplicação desenvolvida utilizando:
 
 ## Para execução: 
 
-Você pode visualizar a aplicação no link: https://douglas-he.github.io/teste-seidor/#/
+Você pode visualizar a aplicação no link: https://douglas-he.github.io/teste-seidor/
 
 Clone o projeto e execute o `npm install` e logo após o `npm start` que inicia a aplicação em http://localhost:3000.
 
