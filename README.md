@@ -21,5 +21,5 @@ Aplicação desenvolvida utilizando:
 
 Para execução: 
 
-Clone o projeto e execute o `npm install` e logo após o `npm start` que inicia a aplicação em http://localhost:300.
+Clone o projeto e execute o `npm install` e logo após o `npm start` que inicia a aplicação em http://localhost:3000.
 Para executar os testes utilize `npm test` e para verificar a cobertura `npm run coverage`.
