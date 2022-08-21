@@ -19,7 +19,7 @@ Aplicação desenvolvida utilizando:
 - React Router
 - React Testing Library + Jest
 
-Para execução: 
+## Para execução: 
 
 Clone o projeto e execute o `npm install` e logo após o `npm start` que inicia a aplicação em http://localhost:3000.
 
